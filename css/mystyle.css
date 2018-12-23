@@ -1,0 +1,204 @@
+body {
+    background-color: #2d2c2c;
+}
+
+.myheader {
+    background-color: #e42425;
+    height: 90px;
+    font-size: 34px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+/*.login {
+    text-decoration: none;
+    background-color: #e42425;
+    height: 90px;
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    display: block;
+}*/
+
+.mycollapse {
+    color: white;
+}
+
+navbar-toggler-icon {
+    color: white;
+}
+
+.mylink {
+    color: white;
+}
+
+.mynavbar {
+    background-color: #040404;
+    height: 40px;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 40px;
+}
+
+.mylink:hover {
+    color: #F18289;
+    text-decoration: underline;
+}
+
+.mylink:active {
+    color: #E42425;
+}
+
+.mycarousel {
+    /* padding-top: 40px;
+    padding-bottom: 40px;*/
+    width: auto;
+    height: auto;
+    align-self: center;
+    margin: 20px;
+    object-fit: cover;
+}
+
+.welcome {
+    font-size: 34px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    /*float: right;*/
+    /*padding-bottom: 40px;*/
+    padding-top: 40px;
+}
+
+.mytext {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: left;
+    font-size: 18px;
+    margin: 40px;
+    /*float: left;*/
+    display: block;
+    /*padding-bottom: 40px;*/
+}
+
+.mycard {
+    height: auto;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    display: block;
+    /*float: right;*/
+    object-fit: cover;
+}
+
+.mycard2 {
+    height: auto;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    display: block;
+    /*float: right;*/
+    object-fit: cover;
+}
+
+.mycard a {
+    color: #F18289;
+    font-weight: bold;
+}
+
+.mycard2 a {
+    color: #F18289;
+    font-weight: bold;
+}
+
+.back {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    text-align: center;
+    color: #F18289;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 20px;
+    /*margin-left: 320px;*/
+    /*display: flex;*/
+}
+
+.back:hover {
+    color: #F18289;
+    text-decoration: underline;
+}
+
+.more:active {
+    color: #F18289;
+    text-decoration: underline;
+}
+
+.mytable {
+    margin: 20px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+icon {
+    width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #040404;
+    height: 130px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    text-align: left;
+}
+
+label {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+.row2 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn {
+    background-color: #F18289;
+    width: 100%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn:hover {
+    background-color: #e42425;
+}
+
+.btn:active {
+    background-color: #e42425;
+}
+
+.form-group {
+    margin-top: 20px;
+}
+
+.form-check {
+    margin-top: 20px;
+}
